@@ -5,17 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.euko.land.ico",
     "slug": "api",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "2.85%",
+    "uptimeDay": "2.85%",
+    "uptimeWeek": "2.85%",
+    "uptimeMonth": "2.85%",
+    "uptimeYear": "2.85%",
     "time": 606,
     "timeDay": 606,
     "timeWeek": 606,
     "timeMonth": 606,
     "timeYear": 606,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-23": 0
+    }
   },
   {
     "name": "WebSite",
@@ -23,16 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/euko.land.ico",
     "slug": "web-site",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "2.75%",
+    "uptimeDay": "2.75%",
+    "uptimeWeek": "2.75%",
+    "uptimeMonth": "2.75%",
+    "uptimeYear": "2.75%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-23": 0
+    }
   }
 ]
