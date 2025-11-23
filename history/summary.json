@@ -4,17 +4,17 @@
     "url": "https://api.euko.land/v1/public/ping",
     "icon": "https://icons.duckduckgo.com/ip3/api.euko.land.ico",
     "slug": "api",
-    "status": "up",
-    "uptime": "0.12%",
-    "uptimeDay": "0.12%",
-    "uptimeWeek": "0.12%",
-    "uptimeMonth": "0.12%",
-    "uptimeYear": "0.12%",
-    "time": 611,
-    "timeDay": 611,
-    "timeWeek": 611,
-    "timeMonth": 611,
-    "timeYear": 611,
+    "status": "down",
+    "uptime": "69.22%",
+    "uptimeDay": "69.22%",
+    "uptimeWeek": "69.22%",
+    "uptimeMonth": "69.22%",
+    "uptimeYear": "69.22%",
+    "time": 582,
+    "timeDay": 582,
+    "timeWeek": 582,
+    "timeMonth": 582,
+    "timeYear": 582,
     "dailyMinutesDown": {
       "2025-11-23": 36
     }
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/euko.land.ico",
     "slug": "web-site",
     "status": "down",
-    "uptime": "0.02%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-23": 36
+      "2025-11-23": 117
     }
   }
 ]
