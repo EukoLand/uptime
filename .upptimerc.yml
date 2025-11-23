@@ -4,7 +4,7 @@ repo: uptime # The name of this repository
 
 sites:
   - name: API
-    url: https://api.euko.land
+    url: https://api.euko.land/public/ping
   - name: WebSite
     url: https://euko.land
     port: 80
