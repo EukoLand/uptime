@@ -4,19 +4,19 @@
     "url": "https://api.euko.land/v1/public/ping",
     "icon": "https://icons.duckduckgo.com/ip3/api.euko.land.ico",
     "slug": "api",
-    "status": "down",
-    "uptime": "69.22%",
-    "uptimeDay": "69.22%",
-    "uptimeWeek": "69.22%",
-    "uptimeMonth": "69.22%",
-    "uptimeYear": "69.22%",
-    "time": 582,
-    "timeDay": 582,
-    "timeWeek": 582,
-    "timeMonth": 582,
-    "timeYear": 582,
+    "status": "up",
+    "uptime": "52.81%",
+    "uptimeDay": "52.81%",
+    "uptimeWeek": "52.81%",
+    "uptimeMonth": "52.81%",
+    "uptimeYear": "52.81%",
+    "time": 616,
+    "timeDay": 616,
+    "timeWeek": 616,
+    "timeMonth": 616,
+    "timeYear": 616,
     "dailyMinutesDown": {
-      "2025-11-23": 36
+      "2025-11-23": 72
     }
   },
   {
@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-23": 117
+      "2025-11-23": 153
     }
   }
 ]
