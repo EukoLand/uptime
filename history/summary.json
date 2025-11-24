@@ -5,17 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.euko.land.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "40.31%",
-    "uptimeDay": "38.95%",
-    "uptimeWeek": "40.31%",
-    "uptimeMonth": "40.31%",
-    "uptimeYear": "40.31%",
-    "time": 561,
-    "timeDay": 512,
-    "timeWeek": 561,
-    "timeMonth": 561,
-    "timeYear": 561,
+    "uptime": "25.45%",
+    "uptimeDay": "34.80%",
+    "uptimeWeek": "25.45%",
+    "uptimeMonth": "25.45%",
+    "uptimeYear": "25.45%",
+    "time": 538,
+    "timeDay": 477,
+    "timeWeek": 538,
+    "timeMonth": 538,
+    "timeYear": 538,
     "dailyMinutesDown": {
+      "2025-11-24": 896,
       "2025-11-23": 915
     }
   },
@@ -36,7 +37,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-24": 222,
+      "2025-11-24": 1118,
       "2025-11-23": 1311
     }
   }
