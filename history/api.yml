@@ -1,7 +1,7 @@
 url: https://api.euko.land/v1/public/ping
-status: up
-code: 200
-responseTime: 697
-lastUpdated: 2025-12-23T17:54:07.027Z
+status: down
+code: 530
+responseTime: 276
+lastUpdated: 2025-12-23T23:20:37.675Z
 startTime: 2025-11-23T02:08:49.189Z
 generator: Upptime <https://github.com/upptime/upptime>
